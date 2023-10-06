@@ -1,4 +1,4 @@
-# PronosticoVentas
+# Pronostico-Ventas-ML
 
 Este proyecto se centra en la predicción de ventas y el enriquecimiento de datos utilizando el algoritmo Catboost y Upgini. El objetivo es pronosticar las ventas futuras para los próximos 3 meses y determinar si el enriquecimiento de los datos conduce a un aumento en la precisión del modelo.
 
